@@ -1,0 +1,8 @@
+# .eslintrc.js
+
+/.vscode
+/node_modules
+/build
+coverage
+/public
+README.md
